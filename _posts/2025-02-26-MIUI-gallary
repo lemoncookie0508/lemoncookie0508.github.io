@@ -3,6 +3,7 @@ layout: post
 title: "Solution of MIUI Gallary's user data problem"
 tags: [MIUI, Xiaomi, gallary, userdata, memory]
 comments: true
+published: true
 ---
 
 Just delete `Android\data\com.miui.gallery\files\ThumbnailFile` folder.
