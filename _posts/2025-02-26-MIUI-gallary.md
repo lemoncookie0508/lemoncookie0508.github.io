@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Solution of MIUI Gallary's user data problem"
+title: "Solution of MIUI Gallary's memory taking problem"
 tags: [MIUI, Xiaomi, gallary, userdata, memory]
 comments: true
 ---
