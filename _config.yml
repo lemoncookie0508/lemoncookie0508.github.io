@@ -8,6 +8,9 @@ name: Lepl's vlog
 # Short bio or description (displayed in the header)
 description: 취미로 코딩하는 사람
 
+future: true
+published: true
+
 #
 # Flags below are optional
 #
